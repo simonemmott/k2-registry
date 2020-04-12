@@ -1,0 +1,1 @@
+from .k2_registry_tests import *

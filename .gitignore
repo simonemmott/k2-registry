@@ -1,0 +1,6 @@
+/build/
+/dist/
+/k2_registry.egg-info/
+/.project
+/.pydevproject
+**/__pycache__
