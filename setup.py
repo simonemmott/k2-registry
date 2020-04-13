@@ -10,9 +10,6 @@ setup(
     author_email='simon.emmott@yahoo.co.uk',
     author='Simon Emmott',
     description='Simple registry framework',
-    packages=['k2_registry'],
-    long_description=read('README.md'),
-    install_requires=[
-        'python-string-utils'
-    ],
+    packages=['k2', 'k2.registry', 'tests'],
+    long_description=read('README.md')
 )
