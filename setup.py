@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name='k2_registry',
-    version='0.0.1',
+    version='0.0.2',
     author_email='simon.emmott@yahoo.co.uk',
     author='Simon Emmott',
     description='Simple registry framework',

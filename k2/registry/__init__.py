@@ -2,8 +2,7 @@
 registrations = []
 
 def clear_registrations():
-    global registrations
-    registrations = []
+    registrations.clear()
 
 def registration():
     
